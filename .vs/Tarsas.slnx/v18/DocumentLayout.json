@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Tarsas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\logform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\gamesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|D:\\IT\\Tarsas\\tarsas\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\logform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\logform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\returnform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\returnform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\gamesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\gamesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|d:\\it\\tarsas\\tarsas\\membersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B69D4-FE20-7B29-B09B-BBDC4C97EB1A}|Tarsas\\Tarsas.csproj|solutionrelative:tarsas\\membersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\ReturnForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.cs",
+              "RelativeToolTip": "Tarsas\\ReturnForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:54:57.518Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LogForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LogForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LogForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\LogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:36.276Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LogForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LogForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LogForm.cs",
+              "RelativeToolTip": "Tarsas\\LogForm.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAgwO8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:24:52.018Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UI.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\UI.cs",
+              "RelativeDocumentMoniker": "Tarsas\\UI.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\UI.cs",
+              "RelativeToolTip": "Tarsas\\UI.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:57:48.371Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\Services.cs",
+              "RelativeDocumentMoniker": "Tarsas\\Services.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\Services.cs",
+              "RelativeToolTip": "Tarsas\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:55:14.45Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\ReturnForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\ReturnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:44.036Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\Models.cs",
+              "RelativeDocumentMoniker": "Tarsas\\Models.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\Models.cs",
+              "RelativeToolTip": "Tarsas\\Models.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:47:25.105Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\Infrastructure.cs",
+              "RelativeDocumentMoniker": "Tarsas\\Infrastructure.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\Infrastructure.cs",
+              "RelativeToolTip": "Tarsas\\Infrastructure.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAkwKABAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:32:00.292Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LoginForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:37.628Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LoginForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.cs",
+              "RelativeToolTip": "Tarsas\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T19:52:17.089Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MainForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MainForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MainForm.cs",
+              "RelativeToolTip": "Tarsas\\MainForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:49:05.69Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MainForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MainForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MainForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:38.98Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MainForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MainForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:49:02.599Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\Program.cs",
+              "RelativeDocumentMoniker": "Tarsas\\Program.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\Program.cs",
+              "RelativeToolTip": "Tarsas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:47:10.935Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IssueForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\IssueForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\IssueForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\IssueForm.cs",
+              "RelativeToolTip": "Tarsas\\IssueForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwF4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T21:37:14.844Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MemberForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MemberForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MemberForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\MemberForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:40.78Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MembersForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MembersForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MembersForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MembersForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\MembersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:22:47.847Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\GameForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\GameForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\GameForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:30.271Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssueForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\IssueForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\IssueForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\IssueForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\IssueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:34.104Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GamesForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\GamesForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\GamesForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\GamesForm.cs [Design]",
+              "RelativeToolTip": "Tarsas\\GamesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:24:32.637Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LogForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LogForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LogForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\LogForm.Designer.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAowNEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:26:39.219Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T20:26:19.468Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReturnForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\ReturnForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\ReturnForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\ReturnForm.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:32:04.615Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\GameForm.cs",
+              "RelativeDocumentMoniker": "Tarsas\\GameForm.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\GameForm.cs",
+              "RelativeToolTip": "Tarsas\\GameForm.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAADwv9gAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:56:15.214Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GamesForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\GamesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\GamesForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\GamesForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\GamesForm.Designer.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAowBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:27:17.696Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MembersForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Tarsas\\Tarsas\\MembersForm.Designer.cs",
+              "RelativeDocumentMoniker": "Tarsas\\MembersForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Tarsas\\Tarsas\\MembersForm.Designer.cs",
+              "RelativeToolTip": "Tarsas\\MembersForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:22:45.686Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

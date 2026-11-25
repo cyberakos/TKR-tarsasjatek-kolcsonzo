@@ -1,0 +1,17 @@
+@'
+# Visual Studio / .NET forditasi kimenet
+.vs/
+bin/
+obj/
+*.user
+
+# adatbazis (a program elso inditaskor letrehozza)
+*.db
+
+# Word ideiglenes fajlok
+~$*
+*.tmp
+
+# a targy feladatleirasa (nem a mi anyagunk)
+IT modellezés és alkalmazásfejlesztés gyak.pdf
+'@ | Set-Content -Encoding utf8 .gitignore
